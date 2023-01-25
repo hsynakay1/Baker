@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b88a3689c423a4fbc9f6c346134c54, type: 3}
+  m_Name: AvatarMarketData
+  m_EditorClassIdentifier: 
+  marketDataName: Avatar
+  marketItemDataes:
+  - id: 0
+    isUnlock: 1
+    itemName: 0
+    costType: 0
+    cost: 0
+    sprite: {fileID: 21300000, guid: b8f5860aa86854486a43f9a7f0e8faa1, type: 3}
+    prefab: {fileID: 6805160710092053792, guid: fbb3f2ec6a034d845a97b79bb2b17b20, type: 3}
+  - id: 1
+    isUnlock: 1
+    itemName: 1
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: c3c95d4059329429ea0bc4c156285c3f, type: 3}
+    prefab: {fileID: 5963647401171242647, guid: 2d93b16fd450ff541b500ed2abd3b03a, type: 3}
+  - id: 2
+    isUnlock: 1
+    itemName: 2
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 3debe8421f06a4ae4bb43cbff52838ed, type: 3}
+    prefab: {fileID: 3053766836195600253, guid: f4b95d7b72d6b744ba3f41bd5703100d, type: 3}
+  - id: 3
+    isUnlock: 1
+    itemName: 3
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 48137925eda8f4c6392a4b5310733024, type: 3}
+    prefab: {fileID: 4606519028288395960, guid: 65f82aae33ffbd34ebc8f6737172ac2d, type: 3}
+  - id: 4
+    isUnlock: 1
+    itemName: 4
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 2f4abf21cf52e413c824f0c7044d5d8a, type: 3}
+    prefab: {fileID: 820048025815226603, guid: 08d968239b983f343819f3f1f6679faa, type: 3}
+  - id: 5
+    isUnlock: 1
+    itemName: 5
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 9754d1d36e00048d88698baa2d196565, type: 3}
+    prefab: {fileID: 2561038062939070784, guid: c4f75cfda058b7b4b944a2aba632decf, type: 3}
+  - id: 6
+    isUnlock: 1
+    itemName: 6
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 9b3fce2377451419cbefd15c769ff6b9, type: 3}
+    prefab: {fileID: 5129441819530698778, guid: 78c4f35dc2f46db4cb6e467b32dcf108, type: 3}
+  - id: 7
+    isUnlock: 0
+    itemName: 7
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: cc0aee365dad042e2b4faf56647383ea, type: 3}
+    prefab: {fileID: 7742280318673001730, guid: 8ea9df9358de39c46bb90fdab400c3eb, type: 3}
+  - id: 8
+    isUnlock: 0
+    itemName: 8
+    costType: 1
+    cost: 0
+    sprite: {fileID: 21300000, guid: 3e5592b6df5194f8da59f24f783ab108, type: 3}
+    prefab: {fileID: 675463934322957358, guid: 4359f314b40b2294092e7429473aa7b3, type: 3}
